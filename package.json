@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/doudoubuda/gulu-ui/issues"
   },
-  "homepage": "https://github.com/doudoubuda/gulu-ui#readme"
+  "homepage": "https://github.com/doudoubuda/gulu-ui#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
 }
