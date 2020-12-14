@@ -1,6 +1,6 @@
 <template>
   <button class="g-button">按钮</button>
-</template>  
+</template>     
 
 <script>
 export default {};
